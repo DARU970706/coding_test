@@ -1,0 +1,3 @@
+/Volumes/MJ 외장하드/공부/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/MJ 외장하드/공부/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/MJ 외장하드/공부/C++/cmake-build-debug/CMakeFiles/C__.dir
